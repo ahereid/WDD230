@@ -1,10 +1,10 @@
 a {
-    color: purple;
+    color: rgb(37, 0, 37);
   }
   
   body {
     margin: 0 auto;
-    font-family: 'Baloo Bhaina 2', cursive;
+    font-family: 'Playfair Display', serif;
   }
   
   header {
@@ -16,7 +16,7 @@ a {
   }
   
   h1 {
-    font-family: 'Baloo Paaji 2', cursive;
+    font-family: 'Playfair Display', serif;
     font-size: 2.5em;
     width: 75%;
     text-align: center;
@@ -24,7 +24,7 @@ a {
   
   h2 {
     font-size: 1.3em;
-    font-family: 'Baloo Bhaina 2', cursive;
+    font-family: 'Playfair Display', serif;
   }
   
   hr {
@@ -58,11 +58,11 @@ a {
   }
   
   #copyright {
-    font-family: 'Baloo Bhaina 2', cursive;
+    font-family: 'Playfair Display', serif;
   }
   
   #lastUpdate {
     font-size: 1.0em;
-    font-family: 'Baloo Bhaina 2', cursive;
+    font-family: 'Playfair Display', serif;
     padding-top: 5px;
   }
